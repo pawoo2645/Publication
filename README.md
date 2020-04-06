@@ -9,4 +9,4 @@ Awarded Paper: IEEE 802.15.4 power efficiency analysis using high-speed Wireless
 
 Graduate School Dean's Award in Academic and Creative Contest for Graduate Students hosted by Korea National Open University, Feb. 20
 
-Awarded work: Technological Trends on Emotion Recognition and Emotional Speech  Synthesis Using Speech Interf
+Awarded work: Technological Trends on Emotion Recognition and Emotional Speech  Synthesis Using Speech Interface
